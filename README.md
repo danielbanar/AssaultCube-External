@@ -15,7 +15,11 @@ Drawing on sceen using GDI+ C++ (gdiplus.lib).
   -game has to run in windowed mode or BORDERLESS!
   
 Includes:
-  -basic aimbot (prefers closest to crosshair)
-  -noclip (G - toggle)
-  -ESP (box, health, direction lines)
-  -infinite ammo  -godmode
+
+-basic aimbot (prefers closest to crosshair)
+
+-noclip (G - toggle)
+
+-ESP (box, health, direction lines)
+
+-infinite ammo  -godmode
