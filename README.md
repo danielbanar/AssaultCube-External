@@ -12,19 +12,11 @@ Drawing on sceen using GDI+ C++ (gdiplus.lib).
   -easier to use for starters than regular GDI.
   
   -gamecapture proof
-  
-  
-  
+
   Disadvantages:
-  
   -game has to run in windowed mode or BORDERLESS!
-  
 Includes:
-
-  -basic aimbot (prefers closest to crosshair)
-
-  -noclip (G - toggle)
-
-  -ESP (box, health, direction lines)
-
-  -infinite ammo  -godmode
+-basic aimbot (prefers closest to crosshair)
+-noclip (G - toggle)
+-ESP (box, health, direction lines)
+-infinite ammo  -godmode
