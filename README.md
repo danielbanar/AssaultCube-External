@@ -20,4 +20,5 @@ Includes:
   - basic aimbot (prefers closest to crosshair)  
   - noclip (G - toggle)  
   - ESP (box, health, direction lines)  
-  - infinite ammo  -godmode
+  - infinite ammo  
+  - godmode
