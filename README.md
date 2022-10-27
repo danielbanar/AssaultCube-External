@@ -16,7 +16,7 @@ Disadvantages:
   - game has to run in windowed mode or BORDERLESS!
 
 
-Includes:
+Features:
   - basic aimbot (prefers closest to crosshair)  
   - noclip (G - toggle)  
   - ESP (box, health, direction lines)  
