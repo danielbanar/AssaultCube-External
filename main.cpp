@@ -119,8 +119,8 @@ int main()
 		if (GetAsyncKeyState('G') & 0x1)
 			bNoclip = !bNoclip;
 		Noclip();
-		mem.write<int>(OFFSET(PlayerEntity*, pLocalPlayer)->health, 1488);
-		mem.write<int>(mem.pPath((Uintptr)pLocalPlayer + 0x378, { 0x14 }), 1488);
+		mem.write<int>(OFFSET(PlayerEntity*, pLocalPlayer)->health, 999);
+		mem.write<int>(mem.pPath((Uintptr)pLocalPlayer + 0x378, { 0x14 }), 999);
 		if (iFrames % 10 == 0)
 		{
 			GetWindowRect(hwndGame, &rectGDI);
