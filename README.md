@@ -1,7 +1,7 @@
 # AssaultCube-External
 Assault Cube External cheat
 
-![alt text](https://cdn.discordapp.com/attachments/476737214580260865/873975763077066832/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/788399963817115669/1072188622817730693/image.png)
 
 This project was made just to learn more about game hacking and drawing on screen.
 
